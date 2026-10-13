@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MatCardFoil
+  m_Shader: {fileID: 4800000, guid: b7a2651fa258ea840a51b581163ccbae, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 305cd8b63af5e1d418bc280b9cb97f3c, type: 3}
+        m_Scale: {x: 0.06666, y: 0.16666}
+        m_Offset: {x: 0.26666, y: 0.16666}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AngleSensitivity: 1
+    - _Aspect: 0.7
+    - _EnableExternalAlpha: 0
+    - _FoilStrength: 0.45
+    - _MaxAngle: 15
+    - _PatternScale: 35
+    - _PatternStrength: 0.25
+    - _PerspectiveDistance: 2.5
+    - _RainbowScale: 2
+    - _ShinePosition: -1
+    - _ShineSlope: 0.5
+    - _ShineStrength: 0.62
+    - _ShineWidth: 0.205
+    - _ZWrite: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _HoverTilt: {r: 0, g: 0, b: 0, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ShineColor: {r: 1, g: 0.8234924, b: 0.3075471, a: 1}
+    - _Tilt: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
