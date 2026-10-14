@@ -24,5 +24,3 @@ MemoryCaptures/
 
 .DS_Store
 Thumbs.db
-# Unity Editor version (students may use different versions)
-/ProjectSettings/ProjectVersion.txt
