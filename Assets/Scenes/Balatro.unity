@@ -376,7 +376,7 @@ MonoBehaviour:
   crtMaterial: {fileID: 2100000, guid: 8ebc1ea155cf6944092165617baeace7, type: 2}
   enableCRT: 1
   scanlineIntensity: 0.12
-  scanlineCount: 540
+  scanlineCount: 100
   curvature: 0
   chromaticAberration: 0.0005
   vignetteIntensity: 0.08

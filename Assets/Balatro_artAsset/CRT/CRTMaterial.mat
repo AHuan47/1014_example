@@ -46,7 +46,7 @@ Material:
     - _EnableExternalAlpha: 0
     - _FlickerIntensity: 0
     - _NoiseIntensity: 0
-    - _ScanlineCount: 540
+    - _ScanlineCount: 100
     - _ScanlineIntensity: 0.12
     - _VignetteIntensity: 0.08
     - _ZWrite: 0
